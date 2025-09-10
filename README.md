@@ -1,3 +1,8 @@
+Simple API dengan Docker
+
+- Identitas
 Nama: Oktavia Suci Rahmadhani
 NIM: L0123110
-Berikut link video demo di youtube: https://youtu.be/4JLffX-jJoE
+
+- Video Demo
+Link youtube: https://youtu.be/4JLffX-jJoE
