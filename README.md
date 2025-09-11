@@ -1,18 +1,18 @@
-#Simple API dengan Docker
+# Simple API dengan Docker
 
-##Identitas
+## Identitas
 
   Nama: Oktavia Suci Rahmadhani
   
   NIM: L0123110
 
-##Cara Menjalankan
+## Cara Menjalankan
 
   1. Clone repository
   2. Build docker image
   3. Jalankan container
   4. Akses API
 
-##Video Demo
+## Video Demo
 
   Link youtube: https://youtu.be/4JLffX-jJoE
